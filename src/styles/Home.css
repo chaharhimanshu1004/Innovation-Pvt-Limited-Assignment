@@ -1,0 +1,14 @@
+.loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh + 67px);
+    width: 100%;
+    background-color: #f5f5f5;
+    position: fixed;
+    top: -67px;
+    left: 0;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #0645c2;
+}
